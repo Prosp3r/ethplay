@@ -112,9 +112,9 @@ You can vary the requests by changing the parameters.
 When tested the service on a variety of systems, here are some results we got.
 
 <table> 
-        <tr><td> System configuration </td><td> Our Results </td><td> Screen Shot </td>  </tr>
-        <tr><td> MacBook Pro 8 GB 20.04[LTS](HVM) (0.5GiB, 1 vCPUs) </td><td> 4511.26 [#/sec], Avg time per request 0.241[ms] </td><td> https://github.com/INFURA/INFRA-TEST-PROSPER-ONOGBERIE/blob/master/testshots/benchmark-test.png</td>  </tr>
-        <tr><td> Docker Container </td><td> 182.28 [#/sec], Avg time per request 5.486[ms] </td><td> https://github.com/INFURA/INFRA-TEST-PROSPER-ONOGBERIE/blob/master/testshots/benchmark-test-docker.png</td>  </tr>
+        <tr><td> System configuration </td><td> Our Results </td><td>  </td>  </tr>
+        <tr><td> MacBook Pro 8 GB 20.04[LTS](HVM) (0.5GiB, 1 vCPUs) </td><td> 4511.26 [#/sec], Avg time per request 0.241[ms] </td><td> </td>  </tr>
+        <tr><td> Docker Container </td><td> 182.28 [#/sec], Avg time per request 5.486[ms] </td><td> </td>  </tr>
            
 </table>
 
